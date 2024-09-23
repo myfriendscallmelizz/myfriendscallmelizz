@@ -10,6 +10,4 @@
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Liz's github stats](https://github-readme-stats.vercel.app/api?username=myfriendscallmelizz&theme=onedark&show_icons=true)
 
-#### Examples of Work
-https://github.com/user-attachments/assets/4f010511-757a-4efe-a480-c245c2fac11f
 

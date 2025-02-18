@@ -1,10 +1,10 @@
 ### Hi, I'm Liz!
 
 🌷A 19 year old with a passion and interest for game design and development<br/>
-🌱Set on attending [Vega Cape Town](https://www.vegaschool.com/full-time/bachelor-of-computer-and-information-science-in-game-design-and-development-degree) in 2025 to further enrich my knowledge and enhance my skills<br/>
+🌱Currently doing a bridging course for mathematics with [Master Maths](https://www.mastermaths.co.za/services/do-or-redo-grade-12-maths/) to further enrich my education<br/>
 🌸Developed two mini games viewable on my profile<br/>
 🎀My portfolio is available [here](https://readymag.website/u43209953/4964276/)<br/>
-🤍Currently learning about [python](https://www.geeksforgeeks.org/python-programming-language-tutorial/)<br/>
+🤍Currently learning about [software engineering](https://en.wikipedia.org/wiki/Software_engineering) and [UI design](https://en.wikipedia.org/wiki/User_interface_design)<br/>
 
 #### GitHub Stats
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->

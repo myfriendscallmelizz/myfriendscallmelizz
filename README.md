@@ -4,7 +4,7 @@
 🌱Currently doing a bridging course for mathematics with [Master Maths](https://www.mastermaths.co.za/services/do-or-redo-grade-12-maths/) to further enrich my education<br/>
 🌸Developed two mini games viewable on my profile<br/>
 🎀My portfolio is available [here](https://readymag.website/u43209953/4964276/)<br/>
-🤍Currently learning about webs design and front-end development<br/>
+🤍Currently learning about web design and front-end development<br/>
 ⭐View my art account [here](https://www.instagram.com/myfriendscallmelizz/)<br/>
 
 #### GitHub Stats
